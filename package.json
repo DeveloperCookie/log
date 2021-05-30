@@ -10,7 +10,8 @@
   "repository": "https://github.com/DeveloperCookie/logs/logs",
   "scripts": {
     "dev": "vuepress dev docs/src",
-    "build": "vuepress build docs/src"
+    "build": "vuepress build docs/src",
+    "docs:build": "vuepress build docs/src"
   },
   "license": "MIT",
   "devDependencies": {
