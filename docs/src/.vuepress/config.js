@@ -37,24 +37,50 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: "Guide",
-        link: "/guide/",
+        text: "TIL",
+        link: "/til/",
       },
       {
-        text: "Log",
-        link: "/log/",
+        text: "Post",
+        link: "/post/",
       },
       {
-        text: "VuePress",
-        link: "https://v1.vuepress.vuejs.org",
+        text: "Reference",
+        link: "/reference/",
+      },
+      {
+        text: "LinkedIn",
+        link: "https://www.linkedin.com/in/woolim-ryu-98b351147/",
       },
     ],
     sidebar: {
-      "/guide/": [
+      "/til/": [
         {
-          title: "Guide",
-          collapsable: false,
-          children: ["", "using-vue"],
+          title: "2021",
+          collapsable: true,
+          children: ["", "2021-2Q", "2021-1Q"],
+        },
+        {
+          title: "2020",
+          collapsable: true,
+          children: ["", "2020-4Q", "2020-3Q", "2020-2Q", "2020-1Q"],
+        },
+      ],
+      "/reference/": [
+        {
+          title: "Web",
+          collapsable: true,
+          children: ["", "others"],
+        },
+        {
+          title: "Design",
+          collapsable: true,
+          children: ["design"],
+        },
+        {
+          title: "Cloud",
+          collapsable: true,
+          children: ["cloud"],
         },
       ],
     },
