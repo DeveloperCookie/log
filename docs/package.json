@@ -1,0 +1,19 @@
+{
+  "name": "logs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Cookie",
+    "email": "developercookie28@gmail.com"
+  },
+  "repository": "https://github.com/DeveloperCookie/logs/logs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
