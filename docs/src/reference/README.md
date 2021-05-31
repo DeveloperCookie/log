@@ -1,5 +1,8 @@
 # Frontend
 
+## Hello Apollo Client, Goodbye Redux!
+- [https://kulkarniankita9.medium.com/oh-hello-apollo-client-goodbye-redux-49dfdeda16d1][https://kulkarniankita9.medium.com/oh-hello-apollo-client-goodbye-redux-49dfdeda16d1]
+
 ## Apollo Client Best Practice by AC Dev Team
 - [https://www.apollographql.com/blog/apollo-client/introducing-the-best-practices-series/][https://www.apollographql.com/blog/apollo-client/introducing-the-best-practices-series/]
 
@@ -33,3 +36,5 @@
 [https://d2.naver.com/helloworld/0527763]: https://d2.naver.com/helloworld/0527763
 
 [https://www.apollographql.com/blog/apollo-client/introducing-the-best-practices-series/]: https://www.apollographql.com/blog/apollo-client/introducing-the-best-practices-series/
+
+[https://kulkarniankita9.medium.com/oh-hello-apollo-client-goodbye-redux-49dfdeda16d1]: https://kulkarniankita9.medium.com/oh-hello-apollo-client-goodbye-redux-49dfdeda16d1
