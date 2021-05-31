@@ -65,6 +65,11 @@ module.exports = {
           collapsable: true,
           children: ["", "2020-4Q", "2020-3Q", "2020-2Q", "2020-1Q"],
         },
+        {
+          title: "회사생활",
+          collapsable: true,
+          children: ["company-log"],
+        },
       ],
       "/reference/": [
         {
